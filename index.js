@@ -1,5 +1,5 @@
-var number;
+var 10;
 function add (a,b){}
-number = a + b;
-return number;
+10 = a + b;
+return 10;
 }
