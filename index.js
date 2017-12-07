@@ -1,4 +1,3 @@
-var number = 0
-function add 5(){
-  number += 5
+function add (a,b){}
+return a + b;
 }
