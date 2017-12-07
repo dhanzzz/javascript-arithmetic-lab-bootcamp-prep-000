@@ -28,6 +28,6 @@ function makeInt(a){
  return number
 }
 function preserveDecimal(a){
-  number = preserveDecimal(a, 2.222)
+  number = preserveDecimal(a, 2.222);
   return number
 }
