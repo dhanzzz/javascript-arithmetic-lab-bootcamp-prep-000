@@ -27,3 +27,7 @@ function makeInt(a){
  number = parseInt(a, 10);
  return number
 }
+function preserveDecimal(a){
+  number = preserveDecimal(a, 2.222)
+  return number
+}
